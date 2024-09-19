@@ -65,7 +65,7 @@ namespace FociWebApp.Pages
                 }
             }
 
-            return RedirectToPage("./Index");
+            return RedirectToPage("./MeccsekListázása");
         }
 
         private bool MeccsExists(int id)
